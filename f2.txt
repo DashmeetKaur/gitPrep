@@ -1,4 +1,2 @@
 This is second file file f2
-ABC
-DEF
 123
